@@ -1,0 +1,6 @@
+64a65
+>   {"gently", no_argument, NULL, 'g'},
+227a229,231
+>         case 'g':
+>           printf("Im afraid i cant do that, Dave\n");
+>           break;
